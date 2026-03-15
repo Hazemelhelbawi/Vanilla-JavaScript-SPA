@@ -23,7 +23,7 @@ You can run the project locally to see how routing works without a page reload.
 
 ---
 
-## 🧠 What You Will Learn
+## What You Will Learn
 
 This project helps you understand:
 
@@ -35,7 +35,7 @@ This project helps you understand:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
@@ -47,5 +47,5 @@ Just pure JavaScript.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
